@@ -1,5 +1,7 @@
 # Automation_Testing_Project
-Automated Testing for Web-Based Banking Application: Mini Project
+
+>> Automated Testing for Web-Based Banking Application: Mini Project
+>> Steps : 
 • Analyzed and comprehended application requirements and functionality with a precision rate of
 98%. Scripted tests using Selenium WebDriver and Java.
 • Implemented the TestNG framework in the project.
